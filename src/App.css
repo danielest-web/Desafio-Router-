@@ -15,6 +15,9 @@ a {
 h1 {
   font-size: 1.4rem;
 }
+.content {
+  flex: 1;
+}
 
 .animeLeft {
   transform: translateX(-20px);
